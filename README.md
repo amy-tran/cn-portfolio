@@ -8,67 +8,67 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 ### Set up
 
-- [ ] Complete the [Project Planning Document](https://docs.google.com/document/d/19kWZMa_uTM0NtrArYVYxH0ozEx4P4U69hoXMJYVq4vY/edit). Make sure you have thought about how you want your portfolio to look and feel, and that you have finished the wireframe! 
+- [ ] Complete the [Project Planning Document](https://docs.google.com/document/d/19kWZMa_uTM0NtrArYVYxH0ozEx4P4U69hoXMJYVq4vY/edit). Make sure you have thought about how you want your portfolio to look and feel, and that you have finished the wireframe!
 
 - [x] Go to the repository.
 
-- [ ] Fork this repository to your GitHub account.
+- [x] Fork this repository to your GitHub account.
 
-- [ ] Create a new project on Glitch that imports your repo from GitHub.
+- [x] Create a new project on Glitch that imports your repo from GitHub.
 
-- [ ] If there's time, start the Day 2 HTML and CSS tasks. 
+- [x] If there's time, start the Day 2 HTML and CSS tasks.
 
 ## Day 2
 
 ### HTML
 
-- [ ] Add a header with your name to your Portfolio homepage.
+- [x] Add a header with your name to your Portfolio homepage.
 
-- [ ] Update the title tag of both of your pages.
+- [X] Update the title tag of both of your pages.
 
-- [ ] Create your navigation bar that will link all your pages together.
+- [X] Create your navigation bar that will link all your pages together.
 
-- [ ] Give your HTML elements classes in order to add Flexbox to the CSS.
+- [x] Give your HTML elements classes in order to add Flexbox to the CSS.
 
-- [ ] Write your biography on your About Me page.
+- [x] Write your biography on your About Me page.
 
 ### CSS
 
 - [ ] Choose 2-4 colors for your theme and add them as font or background colors.
 
-- [ ] Add flexbox to your navigation bar.
+- [x] Add flexbox to your navigation bar.
 
-- [ ] Add at least 1 Google Font.
+- [x] Add at least 1 Google Font.
 
 ### Wrap
 
-- [ ] If you finish early begin Day 3 tasks. 
-- [ ] Submit your work to the session agenda.
+- [X] If you finish early begin Day 3 tasks.
+- [X] Submit your work to the session agenda.
 
 ## Day 3
 
 ### Set Up
 
-- [ ] Link your homepage and About Me pages together using your nav bar.
+- [x] Link your homepage and About Me pages together using your nav bar.
 
-- [ ] Add two more HTML files (Projects, Contact) to your Portfolio and link them all together.
+- [x] Add two more HTML files (Projects, Contact) to your Portfolio and link them all together.
 
-- [ ] Upload at least 2 images so they are hosted in your Portfolio.
+- [X] Upload at least 2 images so they are hosted in your Portfolio.
 
-- [ ] Update the title tags of all your new HTML files.
+- [X] Update the title tags of all your new HTML files.
 
-- [ ] Link your CSS file to all of your HTML files.
+- [x] Link your CSS file to all of your HTML files.
 
 ### Wrap
 
-- [ ] If you have finished early, move on to the Day 4 tasks. 
-- [ ] Push your changes back to your GitHub repo!
+- [X] If you have finished early, move on to the Day 4 tasks.
+- [X] Push your changes back to your GitHub repo!
 
-## Day 4 
+## Day 4
 
 ### Reflection
-- [ ] Go back to the rubric/checklist in your project plan. Check off all the tasks you have completed so far. 
 
+- [ ] Go back to the rubric/checklist in your project plan. Check off all the tasks you have completed so far.
 
 ### HTML
 
@@ -97,7 +97,6 @@ Add your contact information to your Contact page, including your:
 
 - [ ] Push your changes back to your GitHub repo!
 
-
 ## Project Extensions (If you finish everything above early)
 
 - [ ] Style your nav bar so the links change color/style when your hover over them or when you click them.
@@ -112,7 +111,7 @@ Add your contact information to your Contact page, including your:
 
 ## References/Tools
 
-* [Fellowship Reference Table](https://docs.google.com/document/d/1qrY2OC-6S04oOXZlYmXja7lmKBmdApR-HXJkhfd67e8/edit)
-* [W3Schools] (https://www.w3schools.com/)
-* [MDN web docs] (https://developer.mozilla.org/en-US/)
-* [Introduction to Bootstrap] (https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+- [Fellowship Reference Table](https://docs.google.com/document/d/1qrY2OC-6S04oOXZlYmXja7lmKBmdApR-HXJkhfd67e8/edit)
+- [W3Schools](https://www.w3schools.com/)
+- [MDN web docs](https://developer.mozilla.org/en-US/)
+- [Introduction to Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
