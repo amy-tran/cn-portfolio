@@ -78,6 +78,8 @@ h1 {
 .callToAction {
   display: flex;
   justify-content: center;
+  margin-bottom: 30px;
+  margin-top:30px;
 }
 
 .contacts {
@@ -107,14 +109,41 @@ footer {
   margin-top: 8px;
 }
 
+.resumeText1 {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-top: 8px;
+}
+
 .socials {
   display: flex;
   justify-content: center;
 }
 
-.resumeButton {
+.linkedin {
+  margin: 10px;
+}
+.github {
+  margin: 10px;
+}
+.mail {
+  margin: 10px;
+}
+
+.linkStuffs {
   display: flex;
   justify-content: center;
+}
+
+.resume1 {
+  display: flex;
+  justify-content: center;
+  margin-bottom:10px;
   width: 135px;
   height: 35px;
   background: #8DC8A8;

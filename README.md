@@ -34,7 +34,7 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 ### CSS
 
-- [ ] Choose 2-4 colors for your theme and add them as font or background colors.
+- [X] Choose 2-4 colors for your theme and add them as font or background colors.
 
 - [x] Add flexbox to your navigation bar.
 
@@ -72,7 +72,7 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 ### HTML
 
-- [ ] Add a professional headshot of yourself.
+- [X] Add a professional headshot of yourself.
 
 In your Projects page, create a display of at least 4 of your old coding projects that includes:
 
