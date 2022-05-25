@@ -8,7 +8,7 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 ### Set up
 
-- [ ] Complete the [Project Planning Document](https://docs.google.com/document/d/19kWZMa_uTM0NtrArYVYxH0ozEx4P4U69hoXMJYVq4vY/edit). Make sure you have thought about how you want your portfolio to look and feel, and that you have finished the wireframe!
+- [X] Complete the [Project Planning Document](https://docs.google.com/document/d/19kWZMa_uTM0NtrArYVYxH0ozEx4P4U69hoXMJYVq4vY/edit). Make sure you have thought about how you want your portfolio to look and feel, and that you have finished the wireframe!
 
 - [x] Go to the repository.
 
@@ -68,7 +68,7 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 ### Reflection
 
-- [ ] Go back to the rubric/checklist in your project plan. Check off all the tasks you have completed so far.
+- [X] Go back to the rubric/checklist in your project plan. Check off all the tasks you have completed so far.
 
 ### HTML
 

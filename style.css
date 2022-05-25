@@ -79,7 +79,7 @@ h1 {
   display: flex;
   justify-content: center;
   margin-bottom: 30px;
-  margin-top:30px;
+  margin-top: 30px;
 }
 
 .contacts {
@@ -90,7 +90,7 @@ h1 {
 .resume {
   width: 135px;
   height: 35px;
-  background: #8DC8A8;
+  background: #8dc8a8;
   border-radius: 15px;
   border: 1px white solid;
 }
@@ -105,7 +105,7 @@ footer {
   font-size: 15px;
   line-height: 18px;
   text-align: center;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-top: 8px;
 }
 
@@ -116,7 +116,7 @@ footer {
   font-size: 15px;
   line-height: 18px;
   text-align: center;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-top: 8px;
 }
 
@@ -143,10 +143,10 @@ footer {
 .resume1 {
   display: flex;
   justify-content: center;
-  margin-bottom:10px;
+  margin-bottom: 10px;
   width: 135px;
   height: 35px;
-  background: #8DC8A8;
+  background: #8dc8a8;
   border-radius: 15px;
   border: 1px white solid;
 }
@@ -161,6 +161,21 @@ footer {
   justify-content: center;
   margin-left: -19rem;
   margin-top: -2rem;
+}
+
+.projImage {
+  max-width: 76%;
+  max-height: 74%;
+  border: 1px solid black;
+  border-radius:15px;
+}
+
+.firstProjHeader{
+  margin-top: 40px;
+}
+
+.projHeader{
+  margin-top: 100px;
 }
 
 .aboutInfo {
